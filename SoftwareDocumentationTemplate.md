@@ -1,27 +1,30 @@
-Software Documentation Template
+# Software Documentation Template
 
-# Introduction
-Purpose of the software, Context / Scope, References
+## Introduction
+Purpose of the software; Context / Scope; References
 
-# Software Lifecycle Management
-Version Control, Issue Management, Quality Management
+## Software Lifecycle Management
+Version Control; Issue Management; Quality Management
 
-# Requirements
-functional, non functional
+## Requirements
+Functional; Non Functional
 
-# Concepts
-Communication (with other components); Integration; Security, Internationalization 
+## Concepts
+Communication (with other components); Integration; Security; Internationalization 
 
-# Implementation
-Overview, Concepts, Significant Details
+## Implementation
+Overview; Concepts; Significant Details
 
-# User Interface / API
+## User Interface / API
 
-# Data
-Storage, Access
+## Data
+Storage; Access
 
-# Deployment
-Installation, Configuration
+## Deployment
+Installation; Configuration
 
-# Operation
-Start, Stop, Monitoring, Exception Handling
+## Operation
+Start; Stop; Monitoring; Exception Handling
+
+---
+(c) 2013 - Franz van Betteraey
