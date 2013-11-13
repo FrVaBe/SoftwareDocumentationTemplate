@@ -10,7 +10,7 @@ Version Control; Issue Management; Quality Management
 Functional; Non Functional
 
 ## Concepts
-Communication (with other components); Integration; Security; Internationalization 
+Communication (with other components); Security; Internationalization 
 
 ## Implementation
 Overview; Concepts; Significant Details
@@ -21,7 +21,7 @@ Overview; Concepts; Significant Details
 Storage; Access
 
 ## Deployment
-Installation; Configuration
+Installation/Integration; Configuration
 
 ## Operation
 Start; Stop; Monitoring; Exception Handling
